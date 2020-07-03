@@ -1,1 +1,1 @@
-# My attempt at making a blackjakc game
+# My attempt at making a blackjack game
